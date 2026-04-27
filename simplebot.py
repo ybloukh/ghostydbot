@@ -36,5 +36,5 @@ async def on_message(message):
 
 
 if __name__ == "__main__":
-    client.run("NjkzNjc0MTU2ODkzNTM2Mjk2.XoAqWA.W4dSbYsMgwjtCgbbqo2yrhtWCU0")
+    client.run("")
 
